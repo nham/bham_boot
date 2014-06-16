@@ -1,6 +1,6 @@
 [bits 32]
 
-VIDEO_MEMORY equ 0xb8000 ; memory aaddress for VGA mode
+VIDEO_MEMORY equ 0xb8500 ; memory aaddress for VGA mode
 WHITE_ON_BLACK equ 0x0f
 
 print_string_pm:
